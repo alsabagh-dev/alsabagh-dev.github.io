@@ -1367,15 +1367,15 @@
 		/* Main BG */
 
 			.main-bg {
-				display: none;
+				// display: none;
 			}
 
 		/* Main */
 
 			.main {
 				.image.primary {
-					display: block;
-					margin: 0 0 (_size(element-margin) * 2) 0;
+					display: none;
+					// margin: 0 0 (_size(element-margin) * 2) 0;
 				}
 
 				.container {
