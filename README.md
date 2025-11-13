@@ -2,7 +2,7 @@
 **Fullstack Developer** · Cairo, Egypt
 
 - **Phone**: [+20 100 603 4182](tel:+201006034182)
-- **Email**: [dev.alsabagh@gmail.com](mailto:dev.alsabagh@gmail.com)
+- **Email**: [contact@alsabagh.dev](mailto:contact@alsabagh.dev)
 - **LinkedIn**: [linkedin.com/in/alsabagh](https://www.linkedin.com/in/alsabagh)
 - **WhatsApp**: [Message me on WhatsApp](https://wa.me/201006034182)
 
